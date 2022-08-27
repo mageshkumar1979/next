@@ -1,3 +1,4 @@
 microservice:
   microservice1:
     endpoint : http://localhost:8080/ms1/
+    message  : suoer start
